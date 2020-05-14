@@ -1,0 +1,13 @@
+body{
+    background-color: rgba(161, 181, 219, 0.336);
+}
+
+#main_form,
+#title
+{
+    padding-top: 30px;
+    justify-content: center;
+    margin: auto;
+    width: 30%;
+    
+}
